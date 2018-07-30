@@ -1,0 +1,95 @@
+.logout1{
+				position: relative;
+			}
+			
+		.navbar-brand{
+
+			/*font-family: 'Lobster', cursive;*/
+			font-family: 'Roboto Slab', serif;
+		}
+
+		.navbar-nav{
+			/*font-family: 'Kreon', serif;*/
+			font-family: 'Roboto Slab', serif;
+		}
+
+		body{
+			background: url();
+			background-size: cover;
+			background-position: center;
+			/*color: white;*/
+			/*font-family: 'Lobster', cursive;*/
+
+		}
+
+		#content{
+			text-align:  center;
+			padding-top: 25%;
+			font-color: black;
+			
+		} 
+
+		/*	html{
+				height: 100%;
+			}
+
+			h1{
+				font-weight: 700;
+				font-size: 5em;
+			}
+			hr{
+				width: 400px;
+				border-top: 1px solid #f8f8f8;
+				border-bottom: 1px solid #909999;
+			} 
+
+			#none{
+				font-family: 'Lobster Two', cursive;
+				font-size: 2em;
+			}        
+
+			.btn1{
+				font-family: 'Roboto Slab', serif;
+			outline: none;
+			border: none;
+			cursor: pointer;
+			display: block;
+			position: relative;
+			background-color: #2c3e50;
+			font-size: 16px;
+			font-weight: 300px;
+			color: grey;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+			padding: 18px 30px;
+			margin: 0 auto;
+			border-radius: 20px;
+			box-shadow: 0px 6px #525e6b;
+		}
+		.btn1:hover{
+
+			box-shadow: 0px 4px #525e6b;
+			top: 2px;
+
+		}
+		.btn1:active{
+			top: 4px;
+			box-shadow: 0px 2px #525e6b;
+
+		}
+*/				
+		.navbar-inverse{
+			 background: #2c3e50;
+		}
+
+		.navbar-inverse .navbar-nav>li>a{
+		    color: white;
+		}
+
+		.navbar-inverse .navbar-brand {
+		    color: white;
+		}
+/*		.btn1{
+			color: white;
+		}
+*/
